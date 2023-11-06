@@ -1,0 +1,23 @@
+{
+  "name": "StockSync: All-in-one simple Stock Management",
+  "version": "1.0.0",
+  "description": "StockSync is a web-based Laravel application designed to help you manage your inventory and stock efficiently. It offers a range of features for tracking items, managing check-ins and checkouts, handling customers and suppliers, and user management.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan Rizvee",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "axios": "^0.21.1"
+    // Other dependencies
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3",
+    "chai": "^4.3.4"
+    // Other development dependencies
+  }
+}
